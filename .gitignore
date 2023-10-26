@@ -22,3 +22,14 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/.idea/compiler.xml
+/.idea/encodings.xml
+/examples-java21/examples-java-21-preview/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/examples-java21/examples-java-21-preview/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/examples-java21/examples-java-21-stable/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/examples-java21/examples-java-21-stable/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/examples-java21/examples-java-21-preview/target/maven-archiver/pom.properties
+/examples-java21/examples-java-21-stable/target/maven-archiver/pom.properties
+/.idea/vcs.xml
