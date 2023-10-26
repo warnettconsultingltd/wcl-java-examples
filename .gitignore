@@ -30,3 +30,4 @@ replay_pid*
 /**/pom.properties
 /.idea/vcs.xml
 TEST-*.xml
+/**/*Test.txt
