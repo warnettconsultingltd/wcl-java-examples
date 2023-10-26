@@ -14,7 +14,7 @@ public class ObjectMatchTest {
     @Test
     public void givenIntegerProvided_whenInvoked_IntegerMessageReturned() {
         assertEquals("Integer passed in",
-                      testSubject.matchObject(Integer.valueOf(5)));
+                      testSubject.matchObject(5));
     }
 
     @Test
